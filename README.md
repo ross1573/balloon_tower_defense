@@ -3,10 +3,12 @@
 Fan made game
 Based on Xcode project
 
+
 Requirements
 - OpenGL (Version 2.1 or higher, not tested on other devices)
 - GLFW
 - GLEW
+
 
 Issue
 - Position error
