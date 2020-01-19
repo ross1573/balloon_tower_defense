@@ -2,16 +2,16 @@
 
 Fan made game
 Based on Xcode project
-
+Not finshed project(Making)
 
 Requirements
-- OpenGL (Version 2.1 or higher, not tested on other devices)
-- GLFW
+- OpenGL 3.3 or higher (PREV_VER : OpenGL 2.1 or higher)
+- GLFW 3
 - GLEW
+- GLM
 
-
-Issue
+Previous version issue
 - Position error
-  - Try fullscreen mode
+  > Try fullscreen mode
 - Infinite repetition detected on stage 20
 - Invaild access in memory (randomly happen)
