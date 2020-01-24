@@ -1,16 +1,11 @@
 # Balloon_Tower_Defense
-
-Fan made game
-
-Based on Xcode project
-
-Not finshed project(Making)
+- Fan made game
+- Based on Xcode project
 
 Requirements
-- OpenGL 3.3 or higher (PREV_VER : OpenGL 2.1 or higher)
+- OpenGL 2.1 or higher
 - GLFW 3
 - GLEW
-- GLM
 
 Previous version issue
 - Position error
