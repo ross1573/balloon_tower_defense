@@ -12,3 +12,6 @@ Previous version issue
   > Try fullscreen mode
 - Infinite repetition detected on stage 20
 - Invaild access in memory (randomly happen)
+
+https://user-images.githubusercontent.com/44907014/184299814-16428304-ce52-4d88-8e9b-d469a6d39dab.mp4
+
